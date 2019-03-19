@@ -841,49 +841,6 @@ _   底线
 <li><a href="http://www.sublimetext.com/2">Sublime Text 2</a> + <a href="http://ttscoff.github.com/MarkdownEditing/">MarkdownEditing</a> / <a href="http://lucifr.com/2012/07/12/markdownediting-for-sublime-text-2/">教程</a></li>
 </ul>
 
-<p>*** 如有更好的 Markdown 免费编辑器推荐，请到<a href="https://github.com/riku/Markdown-Syntax-CN/tickets/1">这里反馈</a>，谢谢！</p>
-
-
-        </div>
-
-        <div id="comments">
-
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'wowubuntu'; // required: replace example with your forum shortname
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-        </div>
-		
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-4162451-14']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-<a href='http://www.siteuptime.com/' onMouseOver='this.href="http://www.siteuptime.com/statistics.php?Id=101594&UserId=89773";'><img width=85 height=16 border=0 alt='website uptime' src="http://btn.siteuptime.com/genbutton.php?u=89773&m=101594&c=red&p=total"></a><noscript><a href='http://www.siteuptime.com/'>website monitoring</a></noscript>
-
-
-
-<script type="text/javascript" src="http://widgets.amung.us/small.js"></script><script type="text/javascript">WAU_small('bll77vof1u1i')</script>
-        
+      
     </body>
 </html>
