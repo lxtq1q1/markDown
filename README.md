@@ -10,8 +10,7 @@
         <script type="text/javascript" src="http://tajs.qq.com/stats?sId=37233886" charset="UTF-8"></script>
 <script type="text/javascript">
     var _speedMark = new Date();
-</script>
-            
+</script>   
     </head>
     <body>
         <div class="wikistyle">
