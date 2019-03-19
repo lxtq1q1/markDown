@@ -4,10 +4,8 @@
 <html lang="zh-CN">
     <head>
         <meta charset="UTF-8">
-        <title>Markdown 语法说明(简体中文版)</title>
         <link rel="stylesheet" media="all" href="Han/han.min.css">
         <link rel="stylesheet" media="all" href="stylesheets/main.css">
-        <script type="text/javascript" src="http://tajs.qq.com/stats?sId=37233886" charset="UTF-8"></script>
     </head>
     <body>
         <div class="wikistyle">
